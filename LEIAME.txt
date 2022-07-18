@@ -1,0 +1,10 @@
+Angular
+
+para subir rodar no path atual "node server.js", necessário nodejs instalado.
+
+abrir em http://localhost:4200
+
+
+Spring
+
+rodar o StarterApplication
